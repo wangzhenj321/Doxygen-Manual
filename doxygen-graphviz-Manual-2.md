@@ -21,25 +21,25 @@ http://jingyan.baidu.com/article/f71d60377960651ab741d140.html
 
 #### (2) 运行DoxyWizard，弹出Doxygen配置界面
 
-[[/img/doxygen-graphviz-Manual-2/wizard_project.png]]
+![](img/doxygen-graphviz-Manual-2/wizard_project.png?raw=true)
 
 选择Scan recursively则递归分析源代码目录中的子目录内的源代码。
 
-[[/img/doxygen-graphviz-Manual-2/wizard_mode.png]]
+![](img/doxygen-graphviz-Manual-2/wizard_mode.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-2/wizard_output.png]]
+![](img/doxygen-graphviz-Manual-2/wizard_output.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-2/wizard_diagrams.png]]
+![](img/doxygen-graphviz-Manual-2/wizard_diagrams.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-2/expert_build.png]]
+![](img/doxygen-graphviz-Manual-2/expert_build.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-2/expert_dot_1.png]]
+![](img/doxygen-graphviz-Manual-2/expert_dot_1.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-2/expert_dot_2.png]]
+![](img/doxygen-graphviz-Manual-2/expert_dot_2.png?raw=true)
 
 由于使用到了Graphviz，所以要设置Dot选项，勾选HAVE_DOT，并设置DOT_PATH为Graphviz的bin目录。(注意：MAC的Graphviz的bin目录不在安装包内，一般是在/usr/local/bin/,实在找不到就到终端用ls一层一层的查找)
 
-[[/img/doxygen-graphviz-Manual-2/run.png]]
+![](img/doxygen-graphviz-Manual-2/run.png?raw=true)
 
 另外，若Doxygen出现中文乱码问题：
 
