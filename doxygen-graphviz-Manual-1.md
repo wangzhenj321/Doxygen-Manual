@@ -1,19 +1,18 @@
 ## 使用步骤
 
-[[/img/doxygen-graphviz-Manual-1/wizard_project.png]]
 ![](img/doxygen-graphviz-Manual-1/wizard_project.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/wizard_mode.png]]
+![](img/doxygen-graphviz-Manual-1/wizard_mode.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/wizard_output.png]]
+![](img/doxygen-graphviz-Manual-1/wizard_output.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/wizard_diagrams.png]]
+![](img/doxygen-graphviz-Manual-1/wizard_diagrams.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/expert_project.png]]
+![](img/doxygen-graphviz-Manual-1/expert_project.png?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/expert_build.jpg]]
+![](img/doxygen-graphviz-Manual-1/expert_build.jpg?raw=true)
 
-[[/img/doxygen-graphviz-Manual-1/expert_dot.png]]
+![](img/doxygen-graphviz-Manual-1/expert_dot.png?raw=true)
 
 ## 配置选项
 
