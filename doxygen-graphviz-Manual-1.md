@@ -1,6 +1,7 @@
 ## 使用步骤
 
 [[/img/doxygen-graphviz-Manual-1/wizard_project.png]]
+![](img/doxygen-graphviz-Manual-1/wizard_project.png?raw=true)
 
 [[/img/doxygen-graphviz-Manual-1/wizard_mode.png]]
 
